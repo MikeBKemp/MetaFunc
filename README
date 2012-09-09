@@ -1,0 +1,7 @@
+This is an extension to an old University project of mine. The initial design will be for a system that puts tests and compares search algorithms, using a plugin architecture to allow algorithms to be added easily.
+
+I have vague hopes of it eventually becoming a generic genetic programming tool.
+
+Initially .Net 4.5 and C#. Some F# will undoubtedly come in handy too.
+
+It doesn't do very much yet, so don't expect anything other than some initial code for now.
